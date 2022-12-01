@@ -8,7 +8,7 @@ app.use(express.json());
  * vamos usar esta variavel para armazenar qualquer dados, para usar de teste.
  * Ao atualizar o codigo, essa variavel que continha valores, sera reiniciada sem nenhum valor. Depois usaremos
  * um banco de dados para melhor evolucao. jamais use essa variavel em producao.
- * 👇🏻
+ * 👇🏻.
  */
 
 const database = [];
